@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/heminjohnson/nature-tour-website/issues"
   },
-  "homepage": "https://github.com/heminjohnson/nature-tour-website#readme"
+  "homepage": "https://github.com/heminjohnson/nature-tour-website#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
 }

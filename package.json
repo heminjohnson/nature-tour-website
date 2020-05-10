@@ -1,0 +1,22 @@
+{
+  "name": "nature-tour-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heminjohnson/nature-tour-website.git"
+  },
+  "author": "Hemin Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heminjohnson/nature-tour-website/issues"
+  },
+  "homepage": "https://github.com/heminjohnson/nature-tour-website#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}

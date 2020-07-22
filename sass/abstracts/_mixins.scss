@@ -13,6 +13,7 @@
   transform: translate(-50%, -50%);
 }
 
+// this is desktop first use mobile first later -> use min-width instead of max-width
 @mixin respond($breakpoint) {
   @if $breakpoint == phone {
     @media (max-width: 37.5em) {
